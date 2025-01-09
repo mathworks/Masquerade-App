@@ -1,9 +1,8 @@
 
 # Masquerade App
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/masquerade-App&project=masquerade-app.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Masquerade-App&project=masquerade-app.prj&file=Addamask.mlapp)
 
-![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2Fmasquerade-App%2Frelease%2FImages%2FTestedWith.json)
 
 **Curriculum Module**
 
@@ -11,7 +10,7 @@ _Created with R2024a. Compatible with R2024a and later releases._
 
 # Information
 
-This curriculum module contains an interactive [MATLAB®](https://www.mathworks.com/help/matlab/creating_guis/apps-overview.html) that allows users to add various effects to images.
+This curriculum module contains an interactive [MATLAB® App](https://www.mathworks.com/help/matlab/creating_guis/apps-overview.html) that allows users to add various effects to images.
 
 
 ## Background
@@ -19,7 +18,7 @@ This curriculum module contains an interactive [MATLAB®](https://www.mathworks.
 You can use this app as a demonstrations in lectures, K\-12 outreach activities. This module covers image processing and object detection.
 
 
- Get started with the MATLAB® (https://www.mathworks.com/help/matlab/creating_guis/apps-overview.html) that allows users to add various effects to images.
+ Get started with the  [MATLAB® App](https://www.mathworks.com/help/matlab/creating_guis/apps-overview.html)  that allows users to add various effects to images.
  App by installing it into your Apps. 
 
 
@@ -39,7 +38,7 @@ This module assumes no prerequisite knowledge.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)] (https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=PROJECTNAME.prj)  link to download the App. You will be prompted to log in or create a MathWorks account. The App will be loaded and you can get you started.
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Masquerade-App&project=masquerade-app.prj&file=Addamask.mlapp) link to download the App. You will be prompted to log in or create a MathWorks account. The App will be loaded and you can get you started.
 
 ### **On Desktop:**
 
@@ -51,10 +50,10 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 ## Products
 
-MATLAB® is used throughout. Tools from the [MATLAB(R) Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [vision.CascadeObjectDetector](https://www.mathworks.com/help/vision/ref/vision.cascadeobjectdetector-system-object.html) function from the  [Computer Vision Toolbox](https://www.mathworks.com/help/vision/index.html?s_tid=hc_product_card) is used*.*
+MATLAB® is used throughout. Tools from the [MATLAB® Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [vision.CascadeObjectDetector](https://www.mathworks.com/help/vision/ref/vision.cascadeobjectdetector-system-object.html) function from the  [Computer Vision Toolbox](https://www.mathworks.com/help/vision/index.html?s_tid=hc_product_card) is used*.*
 
-## [**ScriptName.mlx**](ScriptName.mlx) 
-| ![image_3.png](Images/image_3.png) <br>  | **In this app, users will...** <br> <br>-  Load images or take selfies <br> <br>-  Apply various image effects to manipulate the images <br> <br>-  Save images with effects <br>  | **Academic disciplines** <br> <br>-  Image Processing <br> <br>-  Object Detection <br>   |
+## [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Masquerade-App&project=masquerade-app.prj&file=Addamask.mlapp)| 
+![image_3.png](Images/image_3.png) <br>  | **In this app, users will...** <br> <br>-  Load images or take selfies <br> <br>-  Apply various image effects to manipulate the images <br> <br>-  Save images with effects <br>  | **Academic disciplines** <br> <br>-  Image Processing <br> <br>-  Object Detection <br>   |
 | :-- | :-- | :-- |
 
 # License
